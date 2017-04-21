@@ -14,5 +14,5 @@ Rails.application.config.i18n.fallbacks = true
 
 FatFreeCRM.application.config.after_initialize do
   I18n.default_locale = Setting.locale
-  I18n.fallbacks[:en] = [:"en-US"]
+  I18n.fallbacks[:tr] = [:"tr-TR"]
 end

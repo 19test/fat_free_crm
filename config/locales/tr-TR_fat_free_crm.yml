@@ -1,49 +1,49 @@
 ---
-en-US:
-  language: English
+tr-TR:
+  language: Türkçe
 
   # Generic terms.
   #----------------------------------------------------------------------------
   id: Id
-  all: All
+  all: Hepsi
   at: at
-  here: here
-  no_button: 'No'
-  not_implemented: Not implemented yet.
-  or: or
-  select_none: -- None --
-  select_blank: -- Select --
-  yes_button: 'Yes'
+  here: orada
+  no_button: 'Hayır'
+  not_implemented: Henüz gerçeklenmedi.
+  or: veya
+  select_none: -- Hiçbiri --
+  select_blank: -- Seç --
+  yes_button: 'Evet'
 
 
   # Settings.
   #----------------------------------------------------------------------------
-  tab_dashboard: Dashboard
-  tab_tasks: Tasks
-  tab_campaigns: Campaigns
-  tab_leads: Leads
-  tab_accounts: Accounts
-  tab_contacts: Contacts
-  tab_opportunities: Opportunities
-  tab_team: Team
-  admin_tab_groups: Groups
-  admin_tab_users: Users
-  admin_tab_fields: Custom Fields
-  admin_tab_tags: Tags
-  admin_tab_settings: Settings
-  admin_tab_plugins: Plugins
-  affiliate: Affiliate
-  competitor: Competitor
-  customer: Customer
+  tab_dashboard: Ön Panel
+  tab_tasks: Görevler
+  tab_campaigns: Kampanyalar
+  tab_leads: Müşteri Adayları
+  tab_accounts: Hesaplar
+  tab_contacts: İletişim
+  tab_opportunities: Fırsatlar
+  tab_team: Takım
+  admin_tab_groups: Gruplar
+  admin_tab_users: Kullanıcılar
+  admin_tab_fields: Özel Alanlar
+  admin_tab_tags: İmler
+  admin_tab_settings: Ayarlar
+  admin_tab_plugins: Eklentiler
+  affiliate: Şube
+  competitor: Rakip
+  customer: Müşteri
   partner: Partner
-  reseller: Reseller
-  vendor: Vendor
-  planned: Planned
-  started: Started
-  on_hold: On Hold
-  completed: Completed
-  called_off: Called Off
-  new: New
+  reseller: Satıcı
+  vendor: Tedarikçi
+  planned: Planlandı
+  started: Başladı
+  on_hold: Bekleme
+  completed: Tamamlandı
+  called_off: İptal
+  new: Yeni
   contacted: Contacted
   converted: Converted
   rejected: Rejected
